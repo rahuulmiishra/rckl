@@ -1,0 +1,13 @@
+.increment-control {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+
+  input {
+    width: 40px;
+    font-size: 20px;
+    margin: 0 10px;
+  }
+}

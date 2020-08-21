@@ -1,0 +1,15 @@
+.product-list-item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px;
+  border: 1px dotted gray;
+  max-width: 400px;
+  margin-bottom: 10px;
+  position: relative;
+  img {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+  }
+}
